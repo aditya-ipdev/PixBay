@@ -1,0 +1,6 @@
+framework module Pods_pixbay_assignment_pixbay_assignmentUITests {
+  umbrella header "Pods-pixbay_assignment-pixbay_assignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

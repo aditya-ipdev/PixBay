@@ -1,0 +1,6 @@
+framework module Pods_pixbay_assignment {
+  umbrella header "Pods-pixbay_assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
